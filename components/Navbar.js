@@ -11,9 +11,7 @@ export default function Navbar(page, items){
             `<li>
                 <a href="#about">ABOUT</a>
             </li>
-            <li>
-                <a href="#projects">PROJECTS</a>
-            </li>
+
             <li>
                 <a href="#people">PEOPLE</a>
             </li>
